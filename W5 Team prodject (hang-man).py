@@ -2,6 +2,8 @@ import random
 
 
 print("Welcome to Hang-man")
+#just some base code to start us off it has the animation all done.
+#please make sure to use at least two more class functions in the code.
 incorect = 0
 while incorect < 9:
     parachute_1 = "  ___ "
