@@ -91,10 +91,10 @@ while incorect < 9:
     if p_8 == no_parachute_8:
         
         class dead_man:
-            print("     |  ")
-            print("     x  ")
-            print("    /|\ ")
-            print("    /|\ ")
+            print  ("     |  ")
+            print  ("     x  ")
+            print  ("    /|\ ")
+            print  ("    /|\ ")
             print(""" ____|____
 | # # # # | 
 |GAME OVER|  
